@@ -14,7 +14,7 @@ int split(int a[], int low, int high);
 
 int main() {
     int a[N], i;
-//    printf("Enter %d unmbers to be sorted:\n" ,N);
+    printf("Enter %d unmbers to be sorted:\n" ,N);
     for (i = 0; i < N; i++) {
         scanf("%d", &a[i]);
     }

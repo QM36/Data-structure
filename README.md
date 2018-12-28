@@ -10,4 +10,6 @@
 
 * (2018-12-28)线性表，C实现，[传送门](https://github.com/QM36/Data-structure/blob/master/SeqList/SeqList/main.c)
 
+* (2018-12-28)计算字符串中的空格个数，C实现，[传送门](https://github.com/QM36/Data-structure/blob/master/count_spaces.c)
+
 PS: 只是学习数据结构与算法的思想，不会拘泥于语言，因此会有部分JS代码
